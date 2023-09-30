@@ -5,8 +5,7 @@
     scroll-behavior: smooth;
     scroll-padding-top: 2rem;
     box-sizing: border-box;
-    font-family: 'Pacifico', cursive;
-   
+    font-family: Arial, Helvetica, sans-serif;
 }
 :root{
     --container-color:rgb(6, 6, 6);
